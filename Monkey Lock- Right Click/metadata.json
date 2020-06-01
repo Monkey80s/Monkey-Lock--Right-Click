@@ -1,0 +1,12 @@
+{
+    "name": "Monkey Lock- Right Click",
+    "uri": "https://github.com/Monkey80s/Monkey-Lock--Right-Click.git",
+    "description": "This plugin gives a javascript alert warning that it avoids with a message that you can customize. its function is to disable the right click of the mouse in order to avoid the code inspection and the download of images of some users or contents.",
+    "version": "1.7.5",
+    "date": "2020-05-30",
+    "author": "Monkey",
+    "source": "a code script",
+    "author_uri": "https://agorapreguntas.club",
+    "license": "GPLv2",
+    "load_order": "after_db_init"
+}
