@@ -1,7 +1,7 @@
 Copy Banned Plugin
 ======================
 
-Plugin Version
+Plugin Version https://github.com/Monkey80s/Monkey-Lock--Right-Click/blob/master/Monkey%20Lock-%20Right%20Click/README.md
 --------------
 - v1.0
 
@@ -10,25 +10,17 @@ feel free to put the notice you like inside the script text
 
 Installation Guide
 ------------------
-- Extract zip file.
-- Place directory called `Monkey Lock- Right Click` in qa-plugin folder.
-- Done
+-extract the zip in qa-plugin
+-open the directory and move your folder to qa-plugin
+-go to admin/plugins/Enable
 
 Question2Answer Version Required
 ----------------------------------------
 Tested on q2a v1.7.5 to 1.8.4
 
-Admin Guide
------------
-- Login with admin id.
-- Go to Admin > Plugins page.
-- Scroll down to "Monkey Lock- Right Click" in plugin list.
-- Click on check box and save.
 
-
-License
 -------
-[GPL v2] (http://www.gnu.org/licenses/gpl-2.0.html)
+
 
 Name : "Monkey Lock- Right Click",
 url: "",
